@@ -20,7 +20,6 @@ RECORD DELETE:
 FEE CALCULATION:
 ![10_Fee_calculation md](https://user-images.githubusercontent.com/69463053/95669377-d23e4780-0b9d-11eb-8bcd-6164679007c4.png)
 ACCOUNT TYPE:
-![11_account_type md](https://user-images.githubusercontent.com/69463053/95669381-d8ccbf00-0b9d-11eb-9a9f-e825c5250c05.png)
 
 
 
