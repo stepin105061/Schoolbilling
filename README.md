@@ -4,3 +4,5 @@
 
 ![cppcheck-action](https://github.com/stepin105061/Schoolbilling/workflows/cppcheck-action/badge.svg)
 
+![CI](https://github.com/stepin105061/Schoolbilling/workflows/CI/badge.svg)
+
