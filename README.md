@@ -4,5 +4,6 @@
 ![CI](https://github.com/stepin105061/Schoolbilling/workflows/CI/badge.svg)
 ![cppcheck-action](https://github.com/stepin105061/Schoolbilling/workflows/cppcheck-action/badge.svg)
 ![Unit testing](https://github.com/stepin105061/Schoolbilling/workflows/Unit%20testing/badge.svg)
+![Valgrind](https://github.com/stepin105061/Schoolbilling/workflows/Valgrind/badge.svg)
 
 
